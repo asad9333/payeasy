@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056984377282",
+    "project_id": "payeasy-app-b2186",
+    "storage_bucket": "payeasy-app-b2186.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056984377282:android:cf2e14baae3ffd6f9b985b",
+        "android_client_info": {
+          "package_name": "com.example.payeasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSczuRBxg1CNvtEhwFt-BtfIzW8FBcN0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
